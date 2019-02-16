@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y\ speedX\ speedY
+comment0.target=emp(int,\ int,\ int,\ int)
+comment1.params=change
+comment1.target=void\ setSize(int)
+comment2.params=
+comment2.target=void\ moveY()
+comment3.params=page
+comment3.target=void\ draw(java.awt.Graphics)
+numComments=4

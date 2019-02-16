@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ speedX\ speedY
+comment0.target=Player(int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=void\ moveX()
+comment2.params=
+comment2.target=void\ moveY()
+comment3.params=change
+comment3.target=void\ changePoints(int)
+comment4.params=
+comment4.target=int\ getPoints()
+comment5.params=page\ over
+comment5.target=void\ draw(java.awt.Graphics,\ boolean)
+numComments=6

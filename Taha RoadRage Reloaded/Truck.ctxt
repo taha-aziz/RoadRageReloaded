@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y\ speedX\ speedY\ c
+comment0.target=Truck(int,\ int,\ int,\ int,\ java.awt.Color)
+comment1.params=
+comment1.target=void\ moveX()
+comment2.params=
+comment2.target=void\ moveY()
+comment3.params=page
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=
+comment4.target=boolean\ deleteCar()
+numComments=5
